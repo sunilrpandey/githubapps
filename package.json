@@ -1,0 +1,17 @@
+{
+  "name": "your-bot-name",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "repository": "https://github.com/probot/hello-world.git",
+  "scripts": {
+    "start": "probot run ./index.js"
+  },
+  "dependencies": {
+    "probot": "^9.11.5"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
