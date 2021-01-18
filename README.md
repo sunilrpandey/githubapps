@@ -1,4 +1,4 @@
-Welcome to Pr  obot on Glitch
+Welcome to Pr  o  bot on Glitch
 =========================
 
 This is the Glitch equivalent of running `create-probot-app` to generate a new probot app locally. Updates to your code will instantly deploy and update live.
